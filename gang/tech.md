@@ -23,6 +23,6 @@
 
 
 # สิ่งนี้จะเป็นประโยชน์กับทีม
-เพราะมันจะมีประโยชน์มากๆจ๊ะ
+เพราะมันจะมีประโยชน์มากๆนะจ๊ะ
 
 ![](https://tse4.mm.bing.net/th/id/OIP.ltjvNom0sk_EbFyPEEJ2agAAAA?r=0&w=342&h=250&rs=1&pid=ImgDetMain&o=7&rm=3)
